@@ -41,7 +41,8 @@ END
 ```
 ## OUTPUT(Ascending order)
 
-<img width="1920" height="1200" alt="Screenshot (171)" src="https://github.com/user-attachments/assets/aa2e30e4-cc98-4754-9288-bf1ac36e8d6f" />
+<img width="1920" height="1200" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/a94b2e8a-193d-45a0-ad7f-fd0b5360ab48" />
+
 
 ## Algorithm(Descending order)
 1. Initialize the register **R7** with count.  
@@ -76,7 +77,7 @@ DJNZ R1,LOOP1
 END
 ```
 ## OUTPUT(Descending order)
-<img width="1920" height="1200" alt="Screenshot (173)" src="https://github.com/user-attachments/assets/5050116a-6f88-4741-8859-0b285c510e20" />
+<img width="1920" height="1200" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/7678a687-c752-4149-8757-4da6d69c6527" />
 
 ## RESULT:
 Thus the sorting of given data was done using 8051 keil software.
